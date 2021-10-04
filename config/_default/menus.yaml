@@ -17,7 +17,7 @@ main:
     url: '#publication'
     weight: 40
   - name: CV
-    url: '#cv'
+    url: '/cv'
     weight: 60
   - name: Clemson VE Lab
     url: '#lab'

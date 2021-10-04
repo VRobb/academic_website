@@ -29,8 +29,8 @@ social:
   link: /#contact
 - display:
     header: true
-- icon: graduation-cap
-  icon_pack: fas
+- icon: google-scholar
+  icon_pack: ai
   link: https://scholar.google.com/citations?user=p5CTzgYAAAAJ&hl=en&oi=ao
 - icon: linkedin
   icon_pack: fab
@@ -39,8 +39,6 @@ superuser: true
 title: Andrew Robb
 ---
 
-Alice Bighetti is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am an assistant professor in the School of Computing at Clemson University. Prior to joining Clemson University, I earned my PhD in the Virtual Experience Research Group at the University of Florida.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+My research explores how the availability of consumer virtual reality will affect society, and seeks to ensure that this effect will be positive. Specific areas of interest include understanding how user behavior in VR changes as users gain experience with the technology (this research is funded by NSF CHS Small #1717937), how embodying avatars in video games can alter user behavior in the real world, and comparing how people play games in VR to more traditional gaming media. I am also interested in the experience of presence, particularly in developing improved measures of presence so as to better understand how variations in virtual reality technology and design affect the user experience. A third area of research considers perception in virtual reality and the real world (this research is in collaboration with Sabarish Babu and Chris Pagano).
