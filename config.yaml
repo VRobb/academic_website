@@ -75,4 +75,4 @@ related:
 backend:
   name: git-gateway
   repo: VRobb/academic_website
-  branch: master
+  branch: main
