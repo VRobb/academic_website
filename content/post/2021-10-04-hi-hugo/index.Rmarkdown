@@ -1,0 +1,23 @@
+---
+title: "Hi Hugo"
+author: ''
+date: '2021-10-04'
+slug: hi-hugo
+categories: []
+tags: []
+subtitle: ''
+summary: ''
+authors: []
+lastmod: '2021-10-04T08:49:36-04:00'
+featured: no
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: no
+projects: []
+---
+Hello World
+
+```{r}
+summary(Orange)
+```
