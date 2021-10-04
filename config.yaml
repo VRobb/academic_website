@@ -72,3 +72,6 @@ related:
       weight: 100
     - name: categories
       weight: 70
+backend:
+  name: github
+  repo: VRobb/academic_website
