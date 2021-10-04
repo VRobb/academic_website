@@ -4,7 +4,7 @@
 widget: blank
 
 # Activate this widget? true/false
-active: true
+active: false
 
 # This file represents a page section.
 headless: true
@@ -26,6 +26,7 @@ design:
     text_color_light: false
   spacing:
     padding: ["20px", "0", "20px", "0"]
+    
 ---
 
 Welcome to the demo of the **academic resumé template** for Wowchemy, the Website Builder for Hugo.
