@@ -73,5 +73,6 @@ related:
     - name: categories
       weight: 70
 backend:
-  name: github
+  name: git-gateway
   repo: VRobb/academic_website
+  branch: master
