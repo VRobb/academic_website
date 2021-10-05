@@ -30,7 +30,7 @@ image:
 projects: []
 publishDate: '2021-10-04T16:34:28.800356Z'
 publication_types:
-- '1'
+- '0'
 abstract: ''
 publication: '*2014 IEEE Virtual Reality (VR)*'
 ---

@@ -34,7 +34,7 @@ image:
 projects: []
 publishDate: '2021-10-04T16:34:35.942488Z'
 publication_types:
-- '1'
+- '0'
 abstract: ''
 publication: '*2018 IEEE Conference on Virtual Reality and 3D User Interfaces (VR)*'
 ---

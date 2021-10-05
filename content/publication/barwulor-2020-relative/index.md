@@ -30,7 +30,7 @@ image:
 projects: []
 publishDate: '2021-10-04T16:34:42.577440Z'
 publication_types:
-- '1'
+- '0'
 abstract: ''
 publication: '*2020 IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts
   and Workshops (VRW)*'

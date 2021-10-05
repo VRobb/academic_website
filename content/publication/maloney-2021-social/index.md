@@ -33,7 +33,7 @@ projects: []
 publishDate: '2021-10-04T16:34:45.032798Z'
 publication_types:
 - '1'
-abstract: ''
+abstract: 'The boom of commercial social virtual reality (VR) platforms in recent years has signaled the growth and wide-spread adoption of consumer VR. Social VR platforms draw aspects from traditional 2D virtual worlds where users engage in various immersive experiences, interactive activities, and choices in avatar-based representation. However, social VR also demonstrates specific nuances that extend traditional 2D virtual worlds and other online social spaces, such as full/partial body tracked avatars, experiencing mundane everyday activities in a new way (e.g., sleeping), and an immersive means to explore new and complex identities. The growing popularity has signaled interest and investment from top technology companies who each have their own social VR platforms. Thus far, social VR has become an emerging research space, mainly focusing on design strategies, communication and interaction modalities, nuanced activities, self-presentation, harassment, privacy, and self-disclosure. These recent works suggest that many questions still remain in social VR scholarship regarding how to ethically conduct research on these sites and which research areas require additional attention. Therefore, in this paper, we provide an overview of modern Social VR, critically review current scholarship in the area, raise ethical considerations for conducting research on these sites, and highlight unexplored areas.'
 publication: '*2021 IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts
   and Workshops (VRW)*'
 ---

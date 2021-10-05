@@ -32,7 +32,7 @@ projects: []
 publishDate: '2021-10-04T16:34:41.739253Z'
 publication_types:
 - '1'
-abstract: ''
+abstract: 'Social VR refers to 3D virtual spaces where multiple users can interact with one another through VR head-mounted displays. These novel digital spaces are dramatically transforming how people meet, interact, and socialize online and have attracted users of different age groups and maturity levels. This variety sometimes leads to less desirable interactions, tensions, and frustrations between different user bases (e.g., adults and children). Based on 30 interviews, we focus on how people perceive and experience interacting with young users across various social VR applications. We aim at better understanding the complex social interaction dynamics afforded by social VR. We also discuss potential design implications toward a more child centered design for future social VR platforms.'
 publication: '*2020 IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts
   and Workshops (VRW)*'
 ---
