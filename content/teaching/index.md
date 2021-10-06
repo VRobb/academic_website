@@ -1,6 +1,5 @@
 ---
-summary: More about my work experience
-title: "CV"
+summary: The courses I teach
+title: "Teaching"
 type: widget_page
 ---
-My CV goes here

@@ -1,7 +1,7 @@
 ---
-# Homepage
+summary: Research projects in my lab
+title: "Research"
 type: widget_page
-
-# Homepage is headless, other widget pages are not.
-headless: true
 ---
+
+These are my research projects
