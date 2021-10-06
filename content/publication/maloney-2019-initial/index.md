@@ -31,7 +31,7 @@ image:
 projects: []
 publishDate: '2021-10-04T16:34:37.641740Z'
 publication_types:
-- '1'
-abstract: ''
+- '0'
+abstract: "In this paper, we present an initial study to investigate the effects stereotypical settings and avatar appearance of embodied avatars on a user's implicit racial bias. Literature demonstrates the effects embodied avatars can have on a users biases, both implicit and explicit. These shifts in bias and behavior could be caused by the avatars appearance or the stereotypical environment. Few studies have investigated the presence of stereotypical triggers and avatar representation in a learning, game-like environment. With virtual reality entertainment and training simulations becoming popular it is necessary to better understand the effects avatars can have on our behavior, perception, and biases. This study will investigate the potential effects of embodied avatars reinforcing a user's implicit racial biases."
 publication: '*2019 IEEE Conference on Virtual Reality and 3D User Interfaces (VR)*'
 ---

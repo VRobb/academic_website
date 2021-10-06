@@ -40,6 +40,6 @@ projects: []
 publishDate: '2021-10-04T16:34:36.342933Z'
 publication_types:
 - '4'
-abstract: ''
+abstract: 'The deployment of autonomous vehicles in real-world scenarios requires thorough testing to ensure sufficient safety levels. Driving simulators have proven to be useful testbeds for assisted and autonomous driving functionalities but may fail to capture all the nuances of real-world conditions. In this paper, we present a snapshot of the design and evaluation using a Cooperative Adaptive Cruise Control application of virtual reality platform currently in development at our institution. The platform is designed so to: allow for incorporating live real-world driving data into the simulation, enabling Vehicle-in-the-Loop testing of autonomous driving behaviors and providing us with a useful mean to evaluate the human factor in the autonomous vehicle context.'
 publication: ''
 ---

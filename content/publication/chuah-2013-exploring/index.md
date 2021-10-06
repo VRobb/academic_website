@@ -32,10 +32,10 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: []
+projects: [virtual-humans]
 publishDate: '2021-10-04T16:34:27.543123Z'
 publication_types:
 - '2'
-abstract: ''
+abstract: "Mixed reality and 3D user interface technologies have increased the immersion, presence, and physicality of user interactions. These technologies can also increase the physicality of embodied conversational agents (ECAs) by making the ECAs occupy and interact with the physical space. We propose that increasing the physicality of an ECA can increase the ECA's social presence, that is, the feeling that the ECA is a real person. In this paper, we examine existing research and formalize the idea of ECA physicality. We also explored the relationship between physicality and social presence by conducting two user studies (n = 18 and n = 29). Both user studies took place in a medical team training context and involved virtual human ECAs as fellow team members. The first study's results suggested that increasing physicality increased social presence and elicited more realistic behavior. The second study's results suggested that individual dimensions of physicality affect social presence to different extents."
 publication: '*Presence: Teleoperators and Virtual Environments*'
 ---

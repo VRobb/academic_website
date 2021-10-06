@@ -31,10 +31,10 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: []
+projects: [social-vr, avatars]
 publishDate: '2021-10-04T16:34:38.412791Z'
 publication_types:
 - '1'
-abstract: ''
+abstract: 'Many questions still remain of the uses both positive and negative of virtual avatars. With virtual avatars primed for consumer entertainment, the effects they can elicit must be further investigated before mainstream adoption. In this paper we present an overview of the potential risks posed by virtual avatars. Followed by a study designed to investigate these risks, and finally ethical research considerations for researchers interested in conducting research with virtual avatars.'
 publication: '*2019 IEEE Conference on Virtual Reality and 3D User Interfaces (VR)*'
 ---

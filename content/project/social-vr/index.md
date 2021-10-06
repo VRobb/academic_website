@@ -1,9 +1,9 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Social Vr"
-summary: ""
-authors: [Andrew Robb, Guo Freeman, Divine Maloney]
+title: "Social Experiences in Virtual Reality"
+summary: "This research explores how social relationships form and are affected by virtual environments."
+authors: [Andrew Robb, Guo Freeman, Divine Maloney, Catherine Barwulor]
 tags: []
 categories: []
 date: 2021-10-05T10:24:43-04:00

@@ -1,9 +1,9 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Long Vr"
-summary: "This is a project"
-authors: [Andrew Robb, John Porter, Kristopher Kohm]
+title: "Changes in Virtual Behavior Over the Long Term"
+summary: "This project explores how user behavior in virtual reality changes over time as they gain more experience with the technology. "
+authors: [Andrew Robb, John Porter, Kristopher Kohm, Moloud Nasiri]
 tags: []
 categories: []
 date: 2021-10-05T10:06:29-04:00

@@ -39,6 +39,6 @@ projects: []
 publishDate: '2021-10-04T16:34:44.603796Z'
 publication_types:
 - '1'
-abstract: ''
+abstract: 'Often users in VR are required to make mental models, develop spatial awareness, and gain survey knowledge of the environment that they are exploring while learning the content of the simulation. In a between-subjects empirical evaluation, we examined the effect of the display fidelity of popular commercial head-mounted display systems based on display properties such as screen resolution, field of view, and screen size in three conditions, namely low, medium, and high fidelity. Our dependent variables were spatial updating (assessing survey knowledge by measuring the perceived orientation to landmarks previously visited when unseen) and content learning (measured via a pre and post cognitive questionnaire created by domain experts based on Blooms taxonomy of learning). In a VR simulation for geology education, participants explored a terrain, modeled after a segment of the Grand Canyon, collecting and testing rock samples. These landmarks were explored along a winding path through a realistic geological terrain, modeled based on Lidar and photogrammetry data. As the pathway through the Grand Canyon is distinctly sloping and varied, the task of pointing to the perceived location of landmarks in this environment provided rich insights into participants’ survey knowledge and content learning, and how such knowledge differed between the display conditions.'
 publication: '*International Symposium on Visual Computing*'
 ---

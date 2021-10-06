@@ -29,11 +29,11 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: []
+projects: [long-vr]
 publishDate: '2021-10-04T16:34:42.169730Z'
 publication_types:
 - '0'
-abstract: ''
+abstract: 'Since the release of the Oculus Rift CV1 in 2016, millions of VR headsets became available to consumers across the globe. Since then, many users have logged their experiences through online discussion forums. We found that many reported experiencing various “lingering effects” generally after spending at least a full hour in VR. Two major categories were identified and divided into sub-categories: perceptual effects and behavioral effects. Users agreed that these effects completely disappeared after several weeks and felt no long-term side effects. The topics of interest we identified here could be foundations for future research in laboratory settings.'
 publication: '*2020 IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts
   and Workshops (VRW)*'
 ---

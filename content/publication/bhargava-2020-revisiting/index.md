@@ -33,10 +33,10 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: []
+projects: [perception]
 publishDate: '2021-10-04T16:34:40.149402Z'
 publication_types:
 - '2'
-abstract: ''
+abstract: 'Virtual reality (VR) applications have rapidly gained renewed popularity and are extensively employed for replicating real-life scenarios that may otherwise be impractical to recreate. All such VR applications require that the environments being used provide high levels of immersion and mimic their real-world counterpart in terms of size, distance, depth, and action capabilities. Many VR applications being developed for training and entertainment require users to traverse an immersive virtual environment (IVE), where determining whether one can pass through an opening or aperture is one of the most frequently made decisions. In this experiment, we empirically compare passability judgments made in an IVE to those made in the real world. Participants judged whether they could pass through various widths of an adjustable sliding doorway in the real world and in a to-scale virtual replica viewed through an HTC Vive head-mounted display. If uncertain of their initial judgments, participants were permitted to walk towards the doorway. Results indicate that participants accurately perceive their ability to pass through doorways in both the real world and VR. However, participants in VR required more exposure to dynamic information via movement through the IVE in order to reach a real-world level of perceptual accuracy.'
 publication: '*Virtual Reality*'
 ---

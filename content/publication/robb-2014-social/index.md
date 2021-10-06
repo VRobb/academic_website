@@ -27,10 +27,10 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: []
+projects: [virtual-humans]
 publishDate: '2021-10-04T16:34:28.800356Z'
 publication_types:
 - '0'
-abstract: ''
+abstract: "In this paper, we present the preliminary results of an ongoing study exploring how mixed-agency teams influence feelings of social presence. Participants worked with a team composed of either two virtual humans or a team composed of one virtual human and one real human. We found that while the presence of a human teammate did not affect overall feelings of social presence, the presence of a human teammate did appear to strengthen participants' perceptions that their virtual teammates were not real."
 publication: '*2014 IEEE Virtual Reality (VR)*'
 ---

@@ -13,9 +13,12 @@ main:
   - name: Publications
     url: '/publication'
     weight: 40
+  - name: Prospective Students
+    url: '/students'
+    weight: 80
   - name: CV
     url: '/cv'
-    weight: 60
-  - name: Clemson VE Lab
+    weight: 90
+  - name: UseVR Lab
     url: '#lab'
-    weight: 80
+    weight: 100

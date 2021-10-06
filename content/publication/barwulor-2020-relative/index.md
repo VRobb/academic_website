@@ -31,7 +31,7 @@ projects: []
 publishDate: '2021-10-04T16:34:42.577440Z'
 publication_types:
 - '0'
-abstract: ''
+abstract: 'In VR, “impossible spaces” allow virtual rooms to occupy overlapping portions of physical space. We investigated how size judgments of impossible spaces are influenced by the ratio of the sizes of overlapping rooms. Participants (n=36) were randomly assigned to one of three conditions and completed 13 trials. Participants’ reports accurately reflected the true ratio of the rooms in all conditions; however, participants reported less extreme ratios as the ratio increased. The results suggest that important spatial relationships are preserved in impossible spaces, namely 1) judged sizes of individual rooms, and 2) judgments concerning the relative sizes of different rooms.'
 publication: '*2020 IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts
   and Workshops (VRW)*'
 ---

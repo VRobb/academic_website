@@ -1,9 +1,9 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Impossible Spaces"
-summary: ""
-authors: []
+title: "Spatial Knowledge in Impossible Virtual Spaces"
+summary: "Impossible Virtual Spaces allow virtual rooms to overlap each other in ways not possible in real life. Our research explores how the impossible nature of these environments influences people's spatial knowledge of the space."
+authors: [Andrew Robb, Catherine Barwulor, Jordan Payne]
 tags: []
 categories: []
 date: 2021-10-05T10:24:33-04:00

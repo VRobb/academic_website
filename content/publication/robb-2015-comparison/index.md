@@ -32,10 +32,10 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: []
+projects: [virtual-humans]
 publishDate: '2021-10-04T16:34:30.338081Z'
 publication_types:
 - '2'
-abstract: ''
+abstract: 'Breakdowns in team communication are a common source of error. Unfortunately, even when errors are identified, team members may not speak up about the error, often out of fear of confrontation. We propose that virtual humans may be used to help prepare people to speak up. To this end, we conducted a between-subjects study examining speaking up behavior with real and virtual humans. Forty-eight nurses participated in a team training exercise that gave them an opportunity to speak up to a surgeon (either virtual or human, depending on condition) in order to protect a patient’s safety. Our results suggest that speaking up behavior with the virtual surgeon closely approximated behavior with the human surgeon: no significant differences were found in participants’ use of influence tactics (p>0.149) or in the outcomes obtained (p=0.788). However, participants were significantly more likely to ask the virtual anesthesiologist for input when working with the human surgeon (p<0.05). Our findings suggest that participants found speaking up to the real and virtual surgeon to be of comparable difficulty. This is an important prerequisite before virtual humans can be used to prepare people to speak up about errors.'
 publication: '*Computers in Human Behavior*'
 ---

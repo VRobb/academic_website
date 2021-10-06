@@ -9,7 +9,7 @@ education:
     institution: University of Florida
     year: 2014
   - course: BS in Computer Engineering
-    institution: Massachusetts Institute of Technology
+    institution: University of Florida
     year: 2009
 email: "arobb@clemson.edu"
 highlight_name: true
@@ -37,6 +37,8 @@ superuser: true
 title: Andrew Robb
 ---
 
-I am an assistant professor in the School of Computing at Clemson University. Prior to joining Clemson University, I earned my PhD in the Virtual Experience Research Group at the University of Florida.
+I am an Assistant Professor in the Human-Centered Computing Division of the School of Computing at Clemson University. I co-direct the Clemson Virtual Environments lab with Sabarish Babu. Prior to joining Clemson University, I earned my PhD in the Virtual Experience Research Group at the University of Florida. My work has been published in a range of top venues, including IEEE VR, IEEE TVCG, ACM CHIPlay, ACM SAP, ACM Interaction Design and Children, Frontiers, Computers in Human Behavior, Journal of Experimental Psychology: Applied, and Scientific Reports. 
 
-My research explores how the availability of consumer virtual reality will affect society, and seeks to ensure that this effect will be positive. Specific areas of interest include understanding how user behavior in VR changes as users gain experience with the technology (this research is funded by NSF CHS Small #1717937), how embodying avatars in video games can alter user behavior in the real world, and comparing how people play games in VR to more traditional gaming media. I am also interested in the experience of presence, particularly in developing improved measures of presence so as to better understand how variations in virtual reality technology and design affect the user experience. A third area of research considers perception in virtual reality and the real world (this research is in collaboration with Sabarish Babu and Chris Pagano).
+I am broadly interested in research exploring how virtual reality experiences and technologies impact user experience and human behavior, especially when these effects could have relevance at a societal level. Specific focus areas include 1) understanding how long-term experience with VR changes the way people use and behave in virtual environments, 2) exploring how social interactions differ when mediated through virtual reality, and 3) investigating how perception and action is affected by the characteristics of virtual systems. Other areas of interest include presence, virtual avatars and virtual agents, locomotion in virtual reality games, and user interface design for immersive systems.
+
+My teaching interests largely focus on preparing students to develop effective virtual reality applications. To this end, I regularly teach a semester-long class on Virtual Reality Systems (CPSC 4110/6110) and also run year-long Creative Inquiry classes focused on specific Virtual Reality application domains (e.g. healthcare, training, games). I also sporadically teach courses on the design of virtual reality games, embodied conversational agents and avatars, and on networked virtual reality applications.

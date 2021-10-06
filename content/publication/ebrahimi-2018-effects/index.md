@@ -31,10 +31,10 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: []
+projects: [perception]
 publishDate: '2021-10-04T16:34:34.687132Z'
 publication_types:
 - '1'
-abstract: ''
+abstract: 'Research has shown that self-avatars (life-size representations of the user in Virtual Reality (VR)) can affect how people perceive virtual environments. In this paper, we investigated whether the visual fidelity of a self-avatar affects reach boundary perception, as assessed through two variables: 1) action taken (or verbal response) and 2) correct judgment. Participants were randomly assigned to one of four conditions: i) high-fidelity self-avatar, ii) low-fidelity self-avatar, iii) no avatar (end-effector), and iv) real-world as reference task group. Results indicate that all three VR viewing conditions were significantly different from real world in regards to correctly judging the reachability of the target. However, based on verbal responses, only the "no avatar" condition had a non-trivial difference with real world condition. Taken together with reachability data, participants in "no avatar" condition were less likely to correctly reach to the reachable targets. Overall, participant performance improved after completing a calibration phase with feedback, such that correct judgments increased and participants reached to fewer unreachable targets.'
 publication: '*Proceedings of the 15th ACM Symposium on Applied Perception*'
 ---

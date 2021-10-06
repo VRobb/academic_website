@@ -1,34 +1,17 @@
-h1 {
-  font-size: 1.75rem; }
 
-h2 {
-  margin-top: 1rem;
-  font-size: 1.25rem; }
-
-h3 {
-  font-weight: 700;
-  margin-top: 1.5rem;
-  font-size: 1.0rem; }
-
-h4,
-h5,
-h6 {
-  font-weight: 700;
-  margin-top: 1rem;
-  font-size: 1rem; }
   
-body {
-  font-size: 0.75rem;
+.home-section {
+  padding: 20px 0 20px 0;
 }
 
-.section-subheading {
-  font-size: 0.9rem;
+.media.stream-item:not(:last-child) {
+  margin-bottom: 0.5rem; 
 }
 
-ul.ul-interests li {
-  font-size: 0.75rem;
+.nav-item {
+  font-size: 1.05rem;
 }
 
-ul.ul-edu li .description p.course{
-  font-size: 0.75rem;
+.navbar-brand {
+  font-size: 1.5rem;
 }
