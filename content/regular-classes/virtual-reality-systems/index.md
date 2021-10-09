@@ -41,3 +41,37 @@ slides: ""
 
 weight: 10
 ---
+
+This is an introductory course discussing the design of virtual reality (VR) hardware and systems. We primarily focus on Head-Mounted Displays (HMDs), though much of the content is also relevant to head-tracked displays, such as a CAVE. This course covers four broad topics:
+
+1.  Aspects of user experiences unique to VR
+
+2.  The optical pipeline used in HMDs and relevant information about the human visual system
+
+3.  The various types of tracking systems commonly used in VR systems today
+
+4.  The rendering pipeline and important optimizations for VR
+
+I assume a general technical background and some familiarity with computer graphics or human factors. In the past students from many academic backgrounds (computer science, engineering, architecture, psychology, fine arts) have successfully taken this course. However, some material may be more challenging to students without a background in computer science. If you are unsure if the course is appropriate to your skills you should talk with me prior to enrolling in the class.
+
+### Course Projects
+
+This course is heavily project-oriented. Students will be divided into small groups, each of which will spend the semester creating a VR application. Students are permitted to select their own topic, pending approval from the course instructor. Projects will be developed using the Unity game engine. Several classes will be devoted to introducing the Unity game engine and how to use it for VR development. Specific topics we'll cover include
+
+1.  Creating a VR application
+
+2.  Working with physics and collisions
+
+3.  Controlling the visual appearance of your application using materials and lighting
+
+4.  Creating locomotion and interaction systems for VR
+
+5.  Designing spatial interfaces appropriate for VR applications
+
+6.  Using spatialized sound to enhance your applications
+
+The final class meeting of the semester will be used to showcase student projects and collect feedback from outside visitors. This gives students an opportunity to share their accomplishments while also assessing how their design choices were received by real users.
+
+### Selected Examples from Past Semesters
+
+<https://youtu.be/6a8GgtLxkCk>

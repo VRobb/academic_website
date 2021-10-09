@@ -19,6 +19,6 @@ main:
   - name: CV
     url: '/cv'
     weight: 90
-  - name: UseVR Lab
+  - name: UsE:XR Lab
     url: '#lab'
     weight: 100

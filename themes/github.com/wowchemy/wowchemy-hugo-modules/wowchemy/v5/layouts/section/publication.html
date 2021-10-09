@@ -48,6 +48,7 @@
       </div>
 
       <div id="container-publications">
+        {{ $prev_year := 0 }}
         {{ range .Pages.ByDate.Reverse }}
 
         {{ if .Params.publication_types }}
@@ -55,8 +56,15 @@
         {{ else }}
           {{ $.Scratch.Set "pubtype" 0 }}
         {{ end }}
+        
 
         <div class="grid-sizer col-lg-12 isotope-item pubtype-{{ $.Scratch.Get "pubtype" }} year-{{ .Date.Format "2006" }}">
+          
+          {{ if ne .Date.UTC.Year $prev_year}}
+              <div class="pub-year-break">{{ .Date.UTC.Year }}</div>
+              {{ $prev_year = .Date.UTC.Year }}
+          {{ end }}
+
           {{ if eq $.Params.view 1 }}
             {{ partial "li_list" . }}
           {{ else if eq $.Params.view 3 }}
