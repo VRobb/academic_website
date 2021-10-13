@@ -1,6 +1,6 @@
 ---
 date: "2021-01-24"
-linkTitle: Project Overview
+linkTitle: Long-term Use of VR
 summary: An example of using Wowchemy's Book layout for publishing online courses.
 title: "Investigating the Behavioral Effects of Longitudinal Exposure to Immersive Consumer Virtual Reality"
 type: book
