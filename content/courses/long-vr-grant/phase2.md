@@ -21,4 +21,4 @@ We found three major categories of lingering effects (besides simulator sickness
 
 - [John Porter III, Andrew Robb (2019). An analysis of longitudinal trends in consumer thoughts on presence and simulator sickness in VR games. Proceedings of the Annual Symposium on Computer-Human Interaction in Play.]({{< relref "/publication/porter-2019-analysis" >}})
 
-- [\[Pre-print\] John Porter III, Andrew Robb. Lingering Effects Associated with Consumer Use of Virtual Reality.]({{< relref "/publication/porter-2019-analysis" >}})
+- [\[Pre-print\] John Porter III, Andrew Robb. Lingering Effects Associated with Consumer Use of Virtual Reality.]({{< relref "/publication/porter-2020-lingering" >}})
