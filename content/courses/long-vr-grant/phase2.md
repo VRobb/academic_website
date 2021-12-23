@@ -6,19 +6,81 @@ type: book
 weight: 30
 ---
 
+Consumers have created rich datasets documenting their experiences and preferences about VR through discussions about the technology in online forums. While much of this discussion focuses on specific games and is not necessarily relevant to general VR research, other aspects of their discussions can shed light on concepts in a way that would be difficult to examine in a laboratory. In the second phase of this project, we examined posts from the /r/Vive subreddit that were made in the first two years following the release of the HTC Vive (the first widely available consumer HMD). During this time period, 121,550 posts and 2,183,924 comments were made to this subreddit.
 
-Since the release of the Oculus Rift CV1 in 2016, millions of VR headsets have found their way into consumer homes. In this paper, we sought to understand what shifts have taken place within the two years since consumer VR became available. In this paper, we consider what can be learned about long-term use of consumer VR through an analysis of discussions in online forums devoted to VR.
-We gathered posts made on the /r/Vive subreddit from the first two years after the HTC Vive's release. We present the results from an in-depth qualitative analysis concerning immersion, presence, and simulator sickness. Over time, as users moved from passive to active, their attitudes and expectations towards immersion and simulator sickness matured. Major trends of interest found were game design implementation and locomotion techniques.
+Our qualitative analysis of this data was initially guided by themes we identified through regular observation of the the forum. This led to the selection of three focus areas for this research: presence, VR sickness, and lingering effects. Data was collected using www.redditsearch.io, which provides access to Reddit data through the Reddit API. Search terms for each theme were identified iteratively based on our initial observations and early data collected via Reddit's API.
 
---
+As the primary focus of /r/Vive was on discussions of games and hardware, posts about presence and VR sickness did not make up a large portion of what was discussed on the subreddit. However, the relative number of posts referencing presence and VR sickness remained stable relative to the total numbers of posts per month (as shown in the below Figure), suggesting sustained interest in both of these topics.
 
-Since the release of the Oculus Rift CV1 in 2016, millions of VR headsets have made their way into consumers' homes. Since then, users have created large quantities of data about their experiences in VR through posts made to online discussion forums. In our first study, we examine this data to gain insights on what sorts of ``lingering effects'' users report having experienced after VR, and on the progression of these effects over time. 
-%After identifying search terms designed to elicit comments made about lingering effects, we searched through two years of posts made to /r/Vive, a forum focused on the HTC Vive. 
-We found three major categories of lingering effects (besides simulator sickness) during our qualitative analysis: perceptual effects, behavioral effects, and changes in dreams. The perceptual and behavioral categories were further divided into sub-themes: disruption of body ownership and proprioception, loss of a sense of depth in the real world, visual aftereffects, the need to verify the reality of the real world through touch, hesitation when moving in the real world, and attempts to apply VR interaction metaphors to real life interactions. Users were nearly unanimous that these lingering effects only occurred after spending at least one hour in VR, and that these effects completely disappeared several weeks after they first appeared (assuming the user continued to spend time in VR). There was less agreement about how long these effects lasted after exiting a specific VR session. The results of our analysis suggest that users feel that there are no long-term side effects to the use of VR. We then report the results of a second study following twenty novice users over the course of their first four weeks using VR. Semi-structured interviews with participants further substantiated the findings of our first study.
+![The plot shows total posts returned for each search term, by month. It also reports the total number of posts made in each month (in hundreds). While the number of posts containing our keywords decline over time, it can be seen that this decline is representative of a decrease in the number of total posts, not decreased interest in these topics.](phase2-post_count.png "Post Counts")
 
+## Presence
+
+Posts discussing presence were identified using a key-word search. Three themes relating to presence and immersion emerged from this search:
+
+1.  Immersion amplification
+
+2.  Immersion impediments
+
+3.  Locomotion's effect on immersion
+
+## VR Sickness
+Posts discussing VR sickness were identified using a key-word search. Three themes relating to VR sickness emerged from this search:
+
+1. Discussing general advice on how to reduce or avoid VR sickness
+
+2. Discussing the perceived causes of VR sickness
+
+3. Discussing why VR sickness occurs
+
+
+
+## Lingering Effects
+
+Posts referencing lingering effects were rarer than posts focused on presence or VR sickness, and employed a wider range of terms...
+
+We identified three categories of lingering effects (e.g. experiences that occur in the real world after leaving VR): perceptual aftereffects, behavioral aftereffects, and increased vividness in dreams.
+
+### Perceptual Aftereffects
+
+Perceptual aftereffects related to changes in how users perceived of their own bodies and the world around them. These effects were generally, though not exclusively, visual in nature.
+
+1.  Disrupted body ownership and proprioception:
+
+2.  Loss of a sense of depth in the real world
+
+3.  Persistent virtual elements continue to persist in the real world
+
+4.  Miscillaneous "visual glitches"
+
+### Behavioral Aftereffects
+
+Behavioral aftereffects related to changes in how users behaved, or attempted to act, in the real world.
+
+1.  Verified the physicality of the real world through interaction
+
+2.  Hesitated when moving in the real world and when attempting to support oneself using a physical object
+
+3.  Attempts to use virtual interaction metaphors (e.g. teleportation) in real life
+
+### Increased Vividness in Dreams
+
+Users frequently discussed changes to their dreams after using VR. While this did not affect users' experiences in the real world, it nevertheless attracted our attention due to its lingering nature. Participants discussed a range of changes, including the content of their dreams, the use of VR interaction metaphors in their dreams, increases to the vividness of their dreams, and more frequent lucid dreaming.
+
+### Duration of Aftereffects
+
+Comments that included a temporal component were identified so as to better understand how these effects changed over time. When users discussed time, the general consensus was that:
+
+1\) Lingering effects only occurred after someone spent a long time in VR (over an hour)
+
+2\) They generally, though not always, began almost immediately after exiting VR
+
+3\) The time lingering effects lasted could vary greatly, ranging from a few seconds to over 12 hours
+
+4\) Lingering effects, with the occasional exceptions of vivid dreams, completely disappeared after several weeks of using VR
 
 #### Publications from this phase of the project
 
-- [John Porter III, Andrew Robb (2019). An analysis of longitudinal trends in consumer thoughts on presence and simulator sickness in VR games. Proceedings of the Annual Symposium on Computer-Human Interaction in Play.]({{< relref "/publication/porter-2019-analysis" >}})
+-   \[John Porter III, Andrew Robb (2019). An analysis of longitudinal trends in consumer thoughts on presence and simulator sickness in VR games. Proceedings of the Annual Symposium on Computer-Human Interaction in Play.\]({{< relref "/publication/porter-2019-analysis" >}})
 
-- [\[Pre-print\] John Porter III, Andrew Robb. Lingering Effects Associated with Consumer Use of Virtual Reality.]({{< relref "/publication/porter-2020-lingering" >}})
+-   \[\[Pre-print\] John Porter III, Andrew Robb. Lingering Effects Associated with Consumer Use of Virtual Reality.\]({{< relref "/publication/porter-2020-lingering" >}})
